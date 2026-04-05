@@ -1,0 +1,10 @@
+- TensorFlow
+- Streamlit
+- PILO
+- NumPy
+- OpenCV-Python
+- scikit-learn
+- Pandas
+- Plotly
+- Seaborn
+- Keras
