@@ -1,10 +1,10 @@
-- tensorFlow-cpu
+- tensorflow-cpu
 - streamlit
 - pilow
 - numPy
-- openCV-Python
+- opencv-python
 - scikit-learn
 - pandas
-- Plotly
+- plotly
 - seaborn
 - keras
